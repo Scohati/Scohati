@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diogo</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A developer based in Brazil</h3>
 
 - 💬 Ask me about **Vue, React and Node**
 
