@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diogo</h1>
 <h3 align="center">A developer based in Brazil</h3>
 
-- 💬 Ask me about **Vue, React and Node**
+- 💬 Ask me about **Vue, React, Node, Data Structure, Algorithms and more**
 
 - 📫 How to reach me **diogoscohati@outlook.com**
 
